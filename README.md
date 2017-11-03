@@ -6,7 +6,7 @@
 
 # Housekeeping info:
 
-### Wifi at Galavanize SSID/pass = g|Events / machinelearning
+### Wifi at SouthBay SSID/pass = tbd
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
 Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion.
@@ -85,6 +85,29 @@ It is deployed in a Hyper Ledger Fabric.
 http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
 We will be developing on our laptops. MacOS, Ubuntu or Windows.
+
+# IBM Blockchain 101: Quick-start guide for developers
+https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
+
+## Option 1: Create a Blockchain Network
+
+### Local options:
+#### Option 1: On your local machine, using the Hyperledger Fabric code base on GitHub
+#### Option 2: On your local machine, using the IBM-certified Hyperledger Fabric images on DockerHub, which includes IBM support available for purchase
+
+### IBM Cloud options:
+#### Option 3: Using the IBM Bluemix Container Service
+#### Option 4: Using the IBM Blockchain Platform
+
+## Option 2: IBM-signed Hyperledger Fabric images on DockerHub
+## Option 3: IBM Bluemix Container Service
+## Option 4: IBM Blockchain Platform
+
+
+
+
+
+
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
