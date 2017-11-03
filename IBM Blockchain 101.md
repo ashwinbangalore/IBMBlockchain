@@ -4,15 +4,15 @@
 
 <img src="https://farm5.staticflickr.com/4466/37215863804_30d3593d56_z.jpg" width="550" height="119" alt="Hyperledger">
 
-## 1. [Create a Hyperledger network on your laptop with the Hyperledger Fabric code base on GitHub] (http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
+## 1. [Create a Hyperledger network on your laptop with the Hyperledger Fabric code base on GitHub](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 
-## 2. [Create a Hyperledger network on your laptop with IBM-signed Hyperledger Fabric images on DockerHub] (https://hub.docker.com/r/ibmblockchain/)
+## 2. [Create a Hyperledger network on your laptop with IBM-signed Hyperledger Fabric images on DockerHub](https://hub.docker.com/r/ibmblockchain/)
 
 ## 3. [Launch your blockchain network inside a Docker container]()
 
 ## 4. [Develop your blockchain application in the web playground, locally, or in the cloud]
 
-## 5. [Activate your blockchain network on the IBM Blockchain Platform. Enterprise membership plan] (https://console.bluemix.net/catalog/services/blockchain?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
+## 5. [Activate your blockchain network on the IBM Blockchain Platform. Enterprise membership plan](https://console.bluemix.net/catalog/services/blockchain?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
