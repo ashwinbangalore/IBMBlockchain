@@ -6,7 +6,7 @@
 
 ## [Create a Hyperledger network on your laptop with the Hyperledger Fabric code base on GitHub (http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 
-## [Create a Hyperledger network on your laptop with IBM-signed Hyperledger Fabric images on DockerHub](https://hub.docker.com/r/ibmblockchain/)
+## [Create a Hyperledger network on your laptop with IBM-signed Hyperledger Fabric images on DockerHub] (https://hub.docker.com/r/ibmblockchain/)
 
 ## [Launch your blockchain network inside a Docker container]()
 
