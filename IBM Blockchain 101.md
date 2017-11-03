@@ -16,8 +16,6 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 ## Step 2: Write and install simple chaincode
 ### Option 1 (Local): Writing and installing chaincode
 
-#### Read the Chaincode for developers tutorial
-
 1. [Read the Chaincode for developers tutorial](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html) 
 2. [Test your chaincode](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html#testing-new-chaincode)
 3. [Get Hyperledger Fabric chaincode samples](https://github.com/hyperledger/fabric-samples/tree/master/chaincode)
