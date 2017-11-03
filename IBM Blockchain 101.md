@@ -4,7 +4,7 @@
 
 <img src="https://farm5.staticflickr.com/4466/37215863804_30d3593d56_z.jpg" width="550" height="119" alt="Hyperledger">
 
-# Composer, Hyperledger development tool
+# Introducing Composer, the Hyperledger development tool
 ### [Develop your blockchain application in the web playground, locally, or in the cloud](https://developer.ibm.com/blockchain/sandbox/) 
 ### [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
