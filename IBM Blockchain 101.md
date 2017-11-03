@@ -11,7 +11,8 @@
 ### [Composer Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
 # Let's get started
-# Create a Hyperledger network on your laptop:
+
+# Create a Hyperledger network on your laptop. We have two options:
 ## 1. [With the Hyperledger Fabric code base on GitHub](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ### 1.1 [Pre-requisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ### 1.2 [Build your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
@@ -24,7 +25,7 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Step 2: Write and install simple chaincode
+##  Write and install simple chaincode
 ### Option 1 (Local): Writing and installing chaincode
 
 1. [Read the Chaincode for developers tutorial](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html) 
