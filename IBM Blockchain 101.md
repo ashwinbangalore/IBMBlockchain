@@ -8,6 +8,7 @@
 ### [Develop your blockchain application in the web playground, locally, or in the cloud](https://developer.ibm.com/blockchain/sandbox/) 
 ### [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
+# Let's get started
 # Create a Hyperledger network on your laptop:
 ## 1. [With the Hyperledger Fabric code base on GitHub](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ### 1.1 [Pre-requisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
