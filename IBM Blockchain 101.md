@@ -26,7 +26,7 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Step 4: Monitor and manage your network and apps on the IBM Blockchain Platform
-
+https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dashboard
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Step 5: Get help and support
