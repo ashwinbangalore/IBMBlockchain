@@ -1,4 +1,6 @@
 
+<img src="https://farm5.staticflickr.com/4526/38118284672_388e43fc4c_z.jpg" width="640" height="275" alt="IBM Blockchain">
+
 <a href="https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/README.md"><img src="https://farm5.staticflickr.com/4477/37819497381_afe8896658_o.png" width="773" height="134"></a>
 
 # Workshop: Introduction to writing Blockchain applications
