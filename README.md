@@ -82,7 +82,7 @@ It is deployed in a Hyper Ledger Fabric.
 <img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
 
 
-[IBM Blockchain 101: Quick-start guide for developers](https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/edit/master/IBM%20Blockchain%20101.md)
+[IBM Blockchain 101: Quick-start guide for developers](IBM%20Blockchain%20101.md)
 
 
 ## Prerequisites: 
