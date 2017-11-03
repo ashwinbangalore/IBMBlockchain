@@ -18,7 +18,7 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 
 #### Read the Chaincode for developers tutorial
 
-1. [http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html](Read the Chaincode for developers tutorial) 
+1. [Read the Chaincode for developers tutorial](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html) 
 2. [Test your chaincode](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html#testing-new-chaincode)
 3. [Get Hyperledger Fabric chaincode samples](https://github.com/hyperledger/fabric-samples/tree/master/chaincode)
 4. [Install and instantiate chaincode](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4noah.html)
