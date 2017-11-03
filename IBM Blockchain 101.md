@@ -25,22 +25,22 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-##  Write and install simple chaincode
-### Option 1 (Local): Writing and installing chaincode
+##  We are now ready to write and install some simple chaincode. Here we have two options:
+### Writing and installing chaincode on our laptop
 
 1. [Read the Chaincode for developers tutorial](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html) 
 2. [Test your chaincode](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html#testing-new-chaincode)
 3. [Get Hyperledger Fabric chaincode samples](https://github.com/hyperledger/fabric-samples/tree/master/chaincode)
 4. [Install and instantiate chaincode](http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4noah.html)
 
-### Option 2 (IBM Cloud): Installing chaincode for a network created using the IBM Blockchain Platform
+### Or else installing chaincode for a network created using the IBM Blockchain Platform
 
 [Installing and Instantiating a Chaincode](https://console.bluemix.net/docs/services/blockchain/howto/install_instantiate_chaincode.html#installing-and-instantiating-a-chaincode)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Step 3: Write and deploy client-side applications that invoke chaincode
-### Option 1 (Local): Writing and deploying client apps locally against a Hyperledger Fabric network
+## We are now ready to write and deploy client-side applications that invoke chaincode
+### we can either write and deploy client apps locally against a Hyperledger Fabric network
 
 1. [Write your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 2. [Get Hyperledger application samples](https://github.com/hyperledger/fabric-samples)
@@ -48,16 +48,16 @@
 4. [Get the Hyperledger Fabric SDKs](http://hyperledger-fabric.readthedocs.io/en/latest/fabric-sdks.html)
 5. [Host your application on the IBM Cloud](https://console.bluemix.net/docs/services/blockchain/v10_application.html#hosting-applications?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
 
-### Option 2 (IBM Cloud): Writing and deploying client apps to a network created using the IBM Blockchain Platform
+### Or we can Writeg and deploy client apps to a network created using the IBM Blockchain Platform
 [Install and nstantiate your chaincode](https://console.bluemix.net/docs/services/blockchain/howto/install_instantiate_chaincode.html#installing-and-instantiating-a-chaincode)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Step 4: Monitor and manage your network and apps on the IBM Blockchain Platform
+## We are now ready to monitor and manage our network and apps on the IBM Blockchain Platform
 https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dashboard
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## Step 5: Get help and support
+## And finallt we can get help and support
 
-## Step 6: Help Build the Hyperledger Fabric
+## And Help Build the Hyperledger Fabric
 
