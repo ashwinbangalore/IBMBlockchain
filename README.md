@@ -88,7 +88,7 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
 
 # IBM Blockchain 101: Quick-start guide for developers
 https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Step 1: Create a Blockchain Network
 
 ### Local options:
@@ -103,9 +103,10 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 ## Option 3: IBM Bluemix Container Service
 ## Option 4: IBM Blockchain Platform
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Step 2: Write and install simple chaincode
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Step 3: Write and deploy client-side applications that invoke chaincode
 ### Option 1 (Local): Writing and deploying client apps locally against a Hyperledger Fabric network
 #### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html
@@ -114,14 +115,14 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 #### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4noah.html
 ### Option 2 (IBM Cloud): Writing and deploying client apps to a network created using the IBM Blockchain Platform
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Step 4: Monitor and manage your network and apps on the IBM Blockchain Platform
 ### https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dashboard
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Step 5: Get help and support
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 ## Step 6: Help build the Hyperledger Fabric
 
 
