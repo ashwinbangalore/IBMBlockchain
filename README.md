@@ -103,13 +103,25 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 ## Option 3: IBM Bluemix Container Service
 ## Option 4: IBM Blockchain Platform
 
-## Step 2 Write and install simple chaincode
-## Step 3 Write and deploy client-side applications that invoke chaincode
+## Step 2: Write and install simple chaincode
+
+
+## Step 3: Write and deploy client-side applications that invoke chaincode
 ### Option 1 (Local): Writing and deploying client apps locally against a Hyperledger Fabric network
+#### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html
+#### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html#testing-new-chaincode
+#### https://github.com/hyperledger/fabric-samples/tree/master/chaincode
+#### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4noah.html
 ### Option 2 (IBM Cloud): Writing and deploying client apps to a network created using the IBM Blockchain Platform
+
+
 ## Step 4: Monitor and manage your network and apps on the IBM Blockchain Platform
 ### https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dashboard
+
+
 ## Step 5: Get help and support
+
+
 ## Step 6: Help build the Hyperledger Fabric
 
 
