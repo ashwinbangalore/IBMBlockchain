@@ -23,6 +23,8 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 
 ### Option 2 (IBM Cloud): Installing chaincode for a network created using the IBM Blockchain Platform
 
+[Installing and Instantiating a Chaincode](https://console.bluemix.net/docs/services/blockchain/howto/install_instantiate_chaincode.html#installing-and-instantiating-a-chaincode)
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## Step 3: Write and deploy client-side applications that invoke chaincode
