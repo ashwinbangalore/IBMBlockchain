@@ -6,24 +6,10 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 
 ## Step 1: Create a blockchain network
 
-
-
 ### Option 1: Hyperledger Fabric code base on GitHub
 ### Option 2: Option 2: IBM-signed Hyperledger Fabric images on DockerHub
 ### Option 3: Option 3: IBM Bluemix Container Service
 ### Option 4: Option 4: IBM Blockchain Platform
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-### Option 2: IBM-signed Hyperledger Fabric images on DockerHub
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-### Option 3: IBM Bluemix Container Service
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-### Option 4: IBM Blockchain Platform
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
