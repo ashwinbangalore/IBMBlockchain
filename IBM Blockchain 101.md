@@ -6,7 +6,7 @@
 
 ## 1. [Create a Hyperledger network on your laptop with the Hyperledger Fabric code base on GitHub](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ### 1.1 [Pre-requisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
-### 1.2 [Build your first network] (http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
+### 1.2 [Build your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
 
 ## 2. [Create a Hyperledger network on your laptop with IBM-signed Hyperledger Fabric images on DockerHub](https://hub.docker.com/r/ibmblockchain/)
 ### 2.1 [Get the images from the IBM Blockchain DockerHub repo](https://hub.docker.com/r/ibmblockchain/)
