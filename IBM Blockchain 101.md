@@ -6,10 +6,12 @@
 
 ## Step 1: Create a blockchain network
 
-### Option 1: on your laptop: Hyperledger Fabric code base on GitHub [Pre-requisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
-### Option 2: on your laptop: IBM-signed Hyperledger Fabric images on DockerHub [](https://hub.docker.com/r/ibmblockchain/)
-### Option 3:IBM Cloud IBM Bluemix Container Service
-### Option 4: IBM Cloud: IBM Blockchain Platform
+### Option 1: On your laptop: Hyperledger Fabric code base on GitHub [Pre-requisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
+### Option 2: [On your laptop: IBM-signed Hyperledger Fabric images on DockerHub](https://hub.docker.com/r/ibmblockchain/)
+### Option 3: IBM Cloud IBM Bluemix Container Service
+1. A cloud-based option is to launch your blockchain network inside a Docker container.
+2. Develop your blockchain application in the web playground, locally, or in the cloud
+### Option 4: [IBM Cloud: IBM Blockchain Platform](https://console.bluemix.net/catalog/services/blockchain?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
