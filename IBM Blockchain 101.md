@@ -13,7 +13,7 @@
 ### 2.2 [Learn more about the IBM Blockchain Docker images](https://hub.docker.com/r/ibmblockchain/fabric-tools/)
 ### 2.3 [Purchase technical support through Passport Advantage](https://www-01.ibm.com/software/passportadvantage/)
 ### 2.4 [Develop your blockchain application in the web playground, locally, or in the cloud](https://developer.ibm.com/blockchain/sandbox/) 
-### 2.5 [https://hyperledger.github.io/composer/tutorials/playground-guide.html](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
+### 2.5 [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
 
 ## 5. [Activate your blockchain network on the IBM Blockchain Platform. Enterprise membership plan](https://console.bluemix.net/catalog/services/blockchain?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
