@@ -15,7 +15,7 @@
 ### 2.3 [Purchase technical support through Passport Advantage](https://www-01.ibm.com/software/passportadvantage/)
 ### 2.4 [Develop your blockchain application in the web playground, locally, or in the cloud](https://developer.ibm.com/blockchain/sandbox/) 
 ### 2.5 [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
-### 2.6.[Activate your blockchain network on the IBM Blockchain Platform. Enterprise membership plan](https://console.bluemix.net/catalog/services/blockchain?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
+##  3. [Activate your blockchain network on the IBM Blockchain Platform. Enterprise membership plan](https://console.bluemix.net/catalog/services/blockchain?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
