@@ -31,9 +31,9 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 ### Option 1 (Local): Writing and deploying client apps locally against a Hyperledger Fabric network
 
 1. [Write your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
-2. [Get Hyperledger application samples]](https://github.com/hyperledger/fabric-samples)
+2. [Get Hyperledger application samples](https://github.com/hyperledger/fabric-samples)
 3. [Install the samples](http://hyperledger-fabric.readthedocs.io/en/latest/samples.html)
-4. [Get the Hyperledger Fabric SDKs](http://hyperledger-fabric.readthedocs.io/en/latest/fabric-sdks.html
+4. [Get the Hyperledger Fabric SDKs](http://hyperledger-fabric.readthedocs.io/en/latest/fabric-sdks.html)
 5. [Host your application on the IBM Cloud](https://console.bluemix.net/docs/services/blockchain/v10_application.html#hosting-applications?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
 
 ### Option 2 (IBM Cloud): Writing and deploying client apps to a network created using the IBM Blockchain Platform
