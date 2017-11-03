@@ -6,7 +6,7 @@
 
 # Introducing Composer, the Hyperledger development tool
 ### [Develop your blockchain application in the web playground, locally, or in the cloud](https://developer.ibm.com/blockchain/sandbox/) 
-### [Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
+### [Composer Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-guide.html)
 
 # Let's get started
 # Create a Hyperledger network on your laptop:
