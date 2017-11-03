@@ -2,6 +2,8 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+<img src="https://farm5.staticflickr.com/4466/37215863804_30d3593d56_z.jpg" width="550" height="119" alt="Hyperledger">
+
 ## Step 1: Create a blockchain network
 
 ### Option 1: Hyperledger Fabric code base on GitHub
