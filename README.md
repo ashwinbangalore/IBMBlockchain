@@ -86,50 +86,6 @@ http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
 We will be developing on our laptops. MacOS, Ubuntu or Windows.
 
-# IBM Blockchain 101: Quick-start guide for developers
-https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## Step 1: Create a Blockchain Network
-
-### Local options:
-#### Option 1: On your local machine, using the Hyperledger Fabric code base on GitHub
-#### Option 2: On your local machine, using the IBM-certified Hyperledger Fabric images on DockerHub, which includes IBM support available for purchase
-
-### IBM Cloud options:
-#### Option 3: Using the IBM Bluemix Container Service
-#### Option 4: Using the IBM Blockchain Platform
-
-## Option 2: IBM-signed Hyperledger Fabric images on DockerHub
-## Option 3: IBM Bluemix Container Service
-## Option 4: IBM Blockchain Platform
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## Step 2: Write and install simple chaincode
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## Step 3: Write and deploy client-side applications that invoke chaincode
-### Option 1 (Local): Writing and deploying client apps locally against a Hyperledger Fabric network
-#### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html
-#### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4ade.html#testing-new-chaincode
-#### https://github.com/hyperledger/fabric-samples/tree/master/chaincode
-#### http://hyperledger-fabric.readthedocs.io/en/latest/chaincode4noah.html
-### Option 2 (IBM Cloud): Writing and deploying client apps to a network created using the IBM Blockchain Platform
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## Step 4: Monitor and manage your network and apps on the IBM Blockchain Platform
-### https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dashboard
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## Step 5: Get help and support
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-## Step 6: Help build the Hyperledger Fabric
-
-
-
-
-
-
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
