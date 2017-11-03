@@ -13,11 +13,11 @@
 # Let's get started
 
 # Create a Hyperledger network on your laptop. We have two options:
-## 1. [With the Hyperledger Fabric code base on GitHub](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
+## 1. [We can use the Hyperledger Fabric code base on GitHub](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ### 1.1 [Pre-requisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ### 1.2 [Build your first network](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
 
-## 2. [With IBM-signed Hyperledger Fabric images on DockerHub](https://hub.docker.com/r/ibmblockchain/)
+## 2. [Or we can use the IBM-signed Hyperledger Fabric images on DockerHub](https://hub.docker.com/r/ibmblockchain/)
 ### 2.1 [Get the images from the IBM Blockchain DockerHub repo](https://hub.docker.com/r/ibmblockchain/)
 ### 2.2 [Learn more about the IBM Blockchain Docker images](https://hub.docker.com/r/ibmblockchain/fabric-tools/)
 ### 2.3 [Purchase technical support through Passport Advantage](https://www-01.ibm.com/software/passportadvantage/)
