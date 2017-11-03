@@ -37,7 +37,7 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 5. [Host your application on the IBM Cloud](https://console.bluemix.net/docs/services/blockchain/v10_application.html#hosting-applications?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
 
 ### Option 2 (IBM Cloud): Writing and deploying client apps to a network created using the IBM Blockchain Platform
-
+[Install and nstantiate your chaincode](https://console.bluemix.net/docs/services/blockchain/howto/install_instantiate_chaincode.html#installing-and-instantiating-a-chaincode)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
