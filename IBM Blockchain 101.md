@@ -26,6 +26,8 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 ### 2.3 [Purchase technical support through Passport Advantage](https://www-01.ibm.com/software/passportadvantage/)
 ##  3. [We can then activate a blockchain network on the IBM Blockchain Platform. Enterprise membership plan](https://console.bluemix.net/catalog/services/blockchain?cm_sp=dw-bluemix-_-cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs-_-article)
 
+Let's get started: https://ibm-blockchain.github.io/
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ##  We are now ready to write and install some simple chaincode. Here we have two options:
