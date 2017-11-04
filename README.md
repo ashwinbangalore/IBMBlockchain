@@ -1,5 +1,5 @@
 
-<img src="https://farm5.staticflickr.com/4526/38118284672_388e43fc4c_z.jpg" width="640" height="275" alt="IBM Blockchain">
+<img src="https://pbs.twimg.com/media/DNkJJcmXcAE92bM.jpg" width="640" height="275" alt="IBM Blockchain">
 
 <a href="https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/blob/master/README.md"><img src="https://farm5.staticflickr.com/4563/24310584338_8715974129_o.png" width="546" height="114" alt="ibmsouthbay"></a>
 
