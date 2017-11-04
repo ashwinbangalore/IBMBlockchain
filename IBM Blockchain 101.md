@@ -15,6 +15,8 @@ https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-sta
 
 # Let's get started
 
+<img src="https://farm5.staticflickr.com/4543/38111588906_c01a13c9c6_o.png" width="761" height="495" alt="blockchain2 on laptop">
+
 # Create a Hyperledger network on your laptop. We have two options:
 ## 1. [We can use the Hyperledger Fabric code base on GitHub](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
 ### 1.1 [Pre-requisites](http://hyperledger-fabric.readthedocs.io/en/latest/getting_started.html)
