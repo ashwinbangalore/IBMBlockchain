@@ -1,5 +1,6 @@
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">What&#39;s your favorite quote about <a href="https://twitter.com/hashtag/blockchain?src=hash&amp;ref_src=twsrc%5Etfw">#blockchain</a>? Give us your best piece of <a href="https://twitter.com/hashtag/WednesdayWisdom?src=hash&amp;ref_src=twsrc%5Etfw">#WednesdayWisdom</a> and the most likes gets RT tomorrow <a href="https://twitter.com/hashtag/HappyNovember?src=hash&amp;ref_src=twsrc%5Etfw">#HappyNovember</a> <a href="https://t.co/o5LyKjuRnK">pic.twitter.com/o5LyKjuRnK</a></p>&mdash; IBM Blockchain (@IBMBlockchain) <a href="https://twitter.com/IBMBlockchain/status/925781577396903936?ref_src=twsrc%5Etfw">November 1, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<img src="https://pbs.twimg.com/media/DNkJJcmXcAE92bM.jpg" width="740" height="375" alt="IBM Blockchain">
 
 <a href="https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/blob/master/README.md"><img src="https://farm5.staticflickr.com/4563/24310584338_8715974129_o.png" width="546" height="114" alt="ibmsouthbay"></a>
 
