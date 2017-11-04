@@ -6,7 +6,7 @@
 http://bit.ly/2h3F0aq
 
 # Workshop: Introduction to writing Blockchain applications
-## The workshop materials are all out on: ibm.biz/blockchaingalvanize
+## The workshop materials are all out on: ibm.biz/ibmsouthbay
 
 # Housekeeping info:
 
