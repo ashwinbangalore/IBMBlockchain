@@ -66,12 +66,12 @@ Let's get started: https://ibm-blockchain.github.io/
 https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dashboard
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## And finallt we can get help and support
+## And finally we can get help and support
 
 ## And Help Build the Hyperledger Fabric
 
 
-
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Ivan Vankov's videos
 
 ## Video 1
