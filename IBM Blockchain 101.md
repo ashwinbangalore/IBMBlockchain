@@ -76,5 +76,5 @@ https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dash
 
 1. [Welcome to Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release/)
 1. [Getting started](https://hyperledger-fabric.readthedocs.io/en/release/getting_started.html)
-1. [In a terminak window, excecute:](curl -sSL https://goo.gl/5ftp2f | bash)
-[Download Specific Binaries](https://hyperledger-fabric.readthedocs.io/en/release/samples.html#binaries)
+1. [In a terminal window, excecute](curl -sSL https://goo.gl/5ftp2f | bash)
+1. [Download Specific Binaries](https://hyperledger-fabric.readthedocs.io/en/release/samples.html#binaries)
