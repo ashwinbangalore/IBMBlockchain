@@ -74,9 +74,17 @@ https://console.bluemix.net/docs/services/blockchain/v10_dashboard.html#v10_dash
 
 # Ivan Vankov's videos
 
+## Video 1
 1. [Welcome to Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release/)
 1. [Getting started](https://hyperledger-fabric.readthedocs.io/en/release/getting_started.html)
 1. [In a terminal window, excecute](curl -sSL https://goo.gl/5ftp2f | bash)
 1. [Download Specific Binaries](https://hyperledger-fabric.readthedocs.io/en/release/samples.html#binaries)
 1. [Building your first network](https://hyperledger-fabric.readthedocs.io/en/release/build_network.html)
 1. [Download Hyperledger Fabric Samples](https://hyperledger-fabric.readthedocs.io/en/release/samples.html)
+
+## Video 2
+1. Familiarize yourself with byfn.sh
+1. Copy files
+1. Run byfn.sh
+1. [Generate Network Artifacts](http://hyperledger-fabric.readthedocs.io/en/latest/build_network.html)
+1. [Bring up your network](./byfn.sh -m up)
