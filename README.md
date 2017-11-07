@@ -16,17 +16,17 @@ Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion.
 
 # Agenda
 ~~~
-6:00: Sign-in, mingle, food, welcome, form teams 
-6:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
-6:40: Coding starts.
+10:00: Sign-in, mingle, food, welcome, form teams 
+10:20: Lennart: Introduction to IBM Blockchain and Hyperledger  
+10:40: Coding starts.
       Lab 1: Let's run our first application in Hyperledger Fabric
       Lab 2: Let's write an app with the Hyperledger Composer
-      Lab 3: A full app, Decentralized Energy with Hyperledger Composer
-8:15: Coding ends.
+      Lab 3: A full app, Decentralized Energy with Hyperledger Composer 
+ 1:15 Coding ends
       Where do we go from here? 
       Developer Journeys for Blockchain
       Q1 2018: Advanced Blockchain, a Hands-on Workshop.
-8:30: Event ends   
+2:30: Event ends   
 ~~~ 
 # Let's get started, introduction and documentation
 
