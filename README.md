@@ -89,6 +89,9 @@ It is deployed in a Hyper Ledger Fabric.
 ## Prerequisites: 
 http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
+Please note that it is crucial that you go thru the link above to verify that you have met the requirements. 
+Especially if the labs do'nt work.
+
 We will be developing on our laptops. MacOS, Ubuntu or Windows.
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
