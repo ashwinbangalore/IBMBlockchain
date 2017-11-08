@@ -10,7 +10,7 @@
 ### Wifi at SouthBay SSID/pass = tbd
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
-Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion.
+Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion, Angie Krackeler.
 
 ## Assumption: you have brought your laptop and you know enough about Blockchain to want to write Blockchain apps. 
 
@@ -89,10 +89,9 @@ It is deployed in a Hyper Ledger Fabric.
 ## Prerequisites: 
 http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
-Please note that it is crucial that you go thru the link above to verify that you have met the requirements. 
-Especially if the labs do'nt work.
+Please note that it is crucial that you go thru the link above to verify that you have met the requirements for running Hyperledger on your laptop. Especially if the labs do'nt work. 
 
-We will be developing on our laptops. MacOS, Ubuntu or Windows.
+We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
