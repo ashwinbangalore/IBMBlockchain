@@ -219,6 +219,8 @@ Response is
 
 [Understanding the Fabcar Network](http://hyperledger-fabric.readthedocs.io/en/release/understand_fabcar_network.html)
 
+The Fabcar network consists of a single peer node configured to use CouchDB as the state database, a single “solo” ordering node, a certificate authority (CA) and a CLI container for executing commands.
+
 This concludes Lab 1.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_c58530e5c0_c.jpg" width="800" height="41" alt="blueband">
