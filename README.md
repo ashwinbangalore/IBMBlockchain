@@ -101,6 +101,8 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
+[A description of the Fabcar Network](https://github.com/hyperledger/fabric/blob/c7c8827580ef6e6136ebc35183bdb5f85a1a353f/docs/source/understand_fabcar_network.rst)
+
 
 ## Architecture:
 <img src="https://farm5.staticflickr.com/4525/26498674439_24631680fc_c.jpg" width="800" height="299" alt="Hyperledger helloworld">
