@@ -210,47 +210,8 @@ Response is
  
   
 ## Step 3 Now let's add a new car and update the Blockchain.
+[Let’s take a closer look at this program. Use an editor (e.g. atom or visual studio) and open query.js.](http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html)
 
-1 Open the Invoke.js program, locate the request function and change the args section like this, 
-using your own name and args:
-
-~~~
-var request = {
-        targets: targets,
-        chaincodeId: options.chaincode_id,
-        fcn: 'createCar',
-        args: ['CAR10', 'Chevy', 'Volt', 'Red', 'Lennart'],
-        chainId: options.channel_id,
-        txId: tx_id
-
-2 Save the file and invoke it like this: node invoke.js. 
-3 Followed by: node query.js
-You should see the new car appear, stored in the blockchain.
-~~~
-
-## Step 4 Now let's change car ownership
-
-1 Change the Invoke.js program as shown below:
-
-~~~
-// createCar - requires 5 args, ex: args: ['CAR11', 'Honda', 'Accord', 'Black', 'Tom'],
-    // changeCarOwner - requires 2 args , ex: args: ['CAR10', 'Barry'],
-    // send proposal to endorser
-    var request = {
-        targets: targets,
-        chaincodeId: options.chaincode_id,
-     // fcn: 'createCar',
-        fcn: 'changeCarOwner',
-     // args: ['CAR10', 'Chevy', 'Volt', 'Red', 'Lennart'],
-        args: ['CAR10', 'Syed'],
-        chainId: options.channel_id,
-        txId: tx_id
-    };
-~~~
-
-2 Again, enter node query.js.
-
-You will see that the new owner is now Syed.
 
 <img src="https://farm5.staticflickr.com/4523/38243385192_3283c6031a_c.jpg" width="800" height="425" alt="Hyperledger helloworld 2">
 
