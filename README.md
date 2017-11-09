@@ -99,7 +99,7 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
 ## Architecture:
 <img src="https://farm5.staticflickr.com/4525/26498674439_24631680fc_c.jpg" width="800" height="299" alt="Hyperledger helloworld">
 
-## Step 1 First, remove the containers, next, delete the chaincode image:
+## Step 1 First, remove any docker containers, next, delete the chaincode image if it exists:
 
     1 docker rm -f $(docker ps -aq)
     2 docker rmi dev-peer0.org1.example.com-fabcar-1.0  //delete chaincode image
