@@ -1,9 +1,11 @@
+# Workshop: Introduction to writing Blockchain applications
+## The workshop materials are all out on: ibm.biz/ibmsouthbay
+
 <a href="https://github.com/LennartFr/20171110-Blockchain-at-South-Bay/blob/master/README.md"><img src="https://farm5.staticflickr.com/4563/24310584338_8715974129_o.png" width="546" height="114" alt="ibmsouthbay"></a>
 
 # ibm.biz/ibmsouthbay
 
-# Workshop: Introduction to writing Blockchain applications
-## The workshop materials are all out on: ibm.biz/ibmsouthbay
+
 
 # Housekeeping info:
 
