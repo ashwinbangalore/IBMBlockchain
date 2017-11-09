@@ -232,7 +232,7 @@ This concludes Lab 1.
 
 ## Run Hyperledger Composer in your browser https://hyperledger.github.io/composer/
 
-## [Instructions (open in parallel window): Composer Playground and the Perishable Goods Network](Hyperledger Composer Perishable Food Network 2.pdf)
+## [Instructions, open in parallel window: Composer Playground and the Perishable Goods Network](Hyperledger Composer Perishable Food Network 2.pdf)
 
 This concludes the second lab centered arund the Composer Playground. 
 
