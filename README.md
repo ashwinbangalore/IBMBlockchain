@@ -246,6 +246,8 @@ You should see the new car appear, stored in the blockchain.
 
 You will see that the new owner is now Syed.
 
+<img src="https://farm5.staticflickr.com/4523/38243385192_3283c6031a_c.jpg" width="800" height="425" alt="Hyperledger helloworld 2">
+
 [Read more about this app:](http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html)
 
 This concludes Lab 1.
