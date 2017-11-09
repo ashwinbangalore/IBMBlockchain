@@ -14,6 +14,10 @@ Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion, Angie Krackeler.
 
 ## Assumption: you have brought your laptop and you know enough about Blockchain to want to write Blockchain apps. 
 
+## [Top 6 technical advantages of Hyperledger Fabric for blockchain networks
+
+What's unique about the Hyperledger Fabric, why it matters to business networks, and how to start using it](https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/index.html)
+
 # Agenda
 ~~~
 10:00: Sign-in, mingle, food, welcome, form teams 
