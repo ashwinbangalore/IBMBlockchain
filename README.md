@@ -5,8 +5,6 @@
 
 # ibm.biz/ibmsouthbay
 
-
-
 # Housekeeping info:
 
 ### Wifi at SouthBay SSID/pass = tbd
@@ -98,6 +96,8 @@ http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 Please note that it is crucial that you go thru the link above to verify that you have met the requirements for running Hyperledger on your laptop. Especially if the labs do'nt work. 
 
 We will be developing on our laptops. MacOS, Ubuntu or Windows. 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_c58530e5c0_c.jpg" width="800" height="41" alt="blueband">
 
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
@@ -258,6 +258,8 @@ You will see that the new owner is now Syed.
 
 This concludes Lab 1.
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_c58530e5c0_c.jpg" width="800" height="41" alt="blueband">
+
 # Lab 2: Let's write an app with the Hyperledger Composer!
 <img src="https://farm5.staticflickr.com/4445/37751618086_06402e4b2e_b.jpg" width="383" height="266" alt="Composer Playground">
 
@@ -270,6 +272,8 @@ This concludes Lab 1.
 (https://github.com/LennartFr/Blockchain-at-Galvanize/blob/master/Hyperledger%20Composer%20Perishable%20Food%20Network%203.pdf)
 
 This concludes the second lab centered arund the Composer Playground. 
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_c58530e5c0_c.jpg" width="800" height="41" alt="blueband">
 
 # Lab 3: Decentralized Energy with Hyperledger composer 
 
