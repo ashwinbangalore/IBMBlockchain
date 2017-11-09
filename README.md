@@ -217,6 +217,8 @@ Response is
 
 [Read more about this app:](http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html)
 
+[Understanding the Fabcar Network](http://hyperledger-fabric.readthedocs.io/en/release/understand_fabcar_network.html)
+
 This concludes Lab 1.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_c58530e5c0_c.jpg" width="800" height="41" alt="blueband">
