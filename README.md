@@ -16,6 +16,8 @@ Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion, Angie Krackeler.
 
 ## [Top 6 technical advantages of Hyperledger Fabric for blockchain networks](https://www.ibm.com/developerworks/cloud/library/cl-top-technical-advantages-of-hyperledger-fabric-for-blockchain-networks/index.html)
 
+## [Ivan Vankov Hyperledger Fabric -build first network](https://www.youtube.com/watch?v=MPNkUqOKhVE&list=PLjsqymUqgpSTGC4L6ULHCB_Mqmy43OcIh)
+
 # Agenda
 ~~~
 10:00: Sign-in, mingle, food, welcome, form teams 
