@@ -104,15 +104,15 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
 ## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
 
     1. Source file: http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html
-    1. Open terminal window on laptop, do: git clone https://github.com/hyperledger/fabric-samples.git
-    1. cd fabric-samples/fabcar
-    1. See what's inside the directory: enrollAdmin.js invoke.js package.json query.js registerUser.js  startFabric.sh
-    1. docker rm -f $(docker ps -aq)
-    1. Start the fabric: ./startFabric.sh
-    1. Install the SDK Node modules: npm install
-    1. node enrollAdmin.js
-    1. node registerUser.js
-    1. node query.js
+    2. Open terminal window on laptop, do: git clone https://github.com/hyperledger/fabric-samples.git
+    3. cd fabric-samples/fabcar
+    4. See what's inside the directory: enrollAdmin.js invoke.js package.json query.js registerUser.js  startFabric.sh
+    5. docker rm -f $(docker ps -aq)
+    6. Start the fabric: ./startFabric.sh
+    7. Install the SDK Node modules: npm install
+    8. node enrollAdmin.js
+    9. node registerUser.js
+   10. node query.js
    
    Output:
    
@@ -165,9 +165,8 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
   <img src="https://farm5.staticflickr.com/4458/37771305586_6bf75bc2af_o.png" width="853" height="482" alt="hyperledger architecture">
 
   </i>
-   
-    6 Install the SDK Node modules: npm install  
-    7 node query.js
+     
+    11 node query.js
        
   output;
    Arnes-MBP:fabcar arnelennartfrantzell
