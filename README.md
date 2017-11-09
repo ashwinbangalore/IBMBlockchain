@@ -96,6 +96,9 @@ We will be developing on our laptops. MacOS, Ubuntu or Windows.
 # Lab 1: Let's run our first application in Hyperledger Fabric 
 Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html
 
+## Architecture:
+<img src="https://farm5.staticflickr.com/4525/26498674439_24631680fc_c.jpg" width="800" height="299" alt="Hyperledger helloworld">
+
 ## Step 1 First, remove the containers, next, delete the chaincode image:
 
     1 docker rm -f $(docker ps -aq)
@@ -242,6 +245,8 @@ You should see the new car appear, stored in the blockchain.
 2 Again, enter node query.js.
 
 You will see that the new owner is now Syed.
+
+[Read more about this app:](http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html)
 
 This concludes Lab 1.
 
