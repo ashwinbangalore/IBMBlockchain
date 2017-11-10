@@ -10,7 +10,7 @@
 ### Wifi at SouthBay SSID/pass = tbd
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
-Marek Sadowski, Syed Zaidi. Maya Reyes, Juanita Dion, Angie Krackeler.
+Marek Sadowski, Syed Zaidi, Maya Reyes, Juanita Dion, Angie Krackeler.
 
 ## Assumption: you have brought your laptop and you know enough about Blockchain to want to write Blockchain apps. 
 
