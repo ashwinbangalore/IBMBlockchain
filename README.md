@@ -82,13 +82,11 @@ across the economic ecosystem.
 ### [The .bna file](https://hyperledger.github.io/composer/reference/commands.html)
 A Business Network Archive (BNA) file is exported by the Hyperledger Composer with 
 the extension of .bna, and contains the definitions all the definitions for a Business Network. 
-It is deployed in a Hyper Ledger Fabric. 
+It is deployed in a Hyperledger Fabric. 
+
+## [IBM Blockchain 101: Quick-start guide for developers](IBM%20Blockchain%20101.md)
  
 <img src="https://farm5.staticflickr.com/4511/37561438920_efe78c324b_o.png" width="1169" height="199" alt="blockchain-banner2">
-
-
-[IBM Blockchain 101: Quick-start guide for developers](IBM%20Blockchain%20101.md)
-
 
 ## Prerequisites: 
 http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
