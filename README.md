@@ -26,11 +26,11 @@ Marek Sadowski, Syed Zaidi, Maya Reyes, Juanita Dion, Angie Krackeler.
       Lab 1: Let's run our first application in Hyperledger Fabric
       Lab 2: Let's write an app with the Hyperledger Composer
       Lab 3: A full app, Decentralized Energy with Hyperledger Composer 
- 1:15 Coding ends
+ 1:30 Coding ends
       Where do we go from here? 
       Developer Journeys for Blockchain
       Q1 2018: Advanced Blockchain, a Hands-on Workshop.
-2:30: Event ends   
+2:00: Event ends   
 ~~~ 
 # Let's get started, introduction and documentation
 
