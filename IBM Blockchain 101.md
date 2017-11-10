@@ -49,7 +49,7 @@ Let's get started: https://ibm-blockchain.github.io/
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 ## We are now ready to write and deploy client-side applications that invoke chaincode
-### we can either write and deploy client apps locally against a Hyperledger Fabric network
+### We can either write and deploy client apps locally against a Hyperledger Fabric network
 
 1. [Write your first application](http://hyperledger-fabric.readthedocs.io/en/latest/write_first_app.html)
 2. [Get Hyperledger application samples](https://github.com/hyperledger/fabric-samples)
