@@ -120,14 +120,16 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
     3. cd fabric-samples/fabcar
     4. See what's inside the directory: enrollAdmin.js invoke.js package.json query.js registerUser.js  startFabric.sh
     5. docker rm -f $(docker ps -aq)
-    6a. Go to the fabric-samples prereq section(http://hyperledger-fabric.readthedocs.io/en/latest/samples.html) and follow - "Download Platform-specific Binaries". This will download the required docker images and tag them as latest which is needed for the samples to run properly in your local machine. Note that the images are not tagged "latest" on dockerhub and your script will not work without this step. 
-    curl -sSL https://goo.gl/fMh2s3 | bash
-    6b. Export MSYS_NO_PATHCONV=1
-    6c.Start the fabric: ./startFabric.sh    
-    7. Install the SDK Node modules: npm install
-    8. node enrollAdmin.js
-    9. node registerUser.js
-   10. node query.js
+    6. curl -sSL https://goo.gl/fMh2s3 | bash //(http://hyperledger-fabric.readthedocs.io/en/latest/samples.html) 
+     // This will download the required docker images and tag them as latest
+     // which is needed for the samples to run properly on your local machine.
+     // Note that the images are not tagged "latest" on Dockerhub and your script will not work without this step.
+    7. Export MSYS_NO_PATHCONV=1
+    8. Start the fabric: ./startFabric.sh    
+    9. Install the SDK Node modules: npm install
+   10. node enrollAdmin.js
+   11. node registerUser.js
+   11. node query.js
    
    Output:
    
