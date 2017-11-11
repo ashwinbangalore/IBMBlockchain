@@ -66,7 +66,7 @@ Consensus protocol is pluggable, currently an implementation of Byzantine fault-
 sensus using the PBFT protocol.
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
-In this lab we will work with a minimal network with one Peer. Such a system does not support Consensus and is called NOOP for no-op.
+In this lab we will work with a minimal network with one Peer. Such a system does not support Consensus and is called NOOP for no-op. To support consensus a network must have at least four Peers.
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
