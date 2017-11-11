@@ -10,7 +10,7 @@
 ### Wifi at SouthBay SSID/pass = tbd
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
-Marek Sadowski, Syed Zaidi, Maya Reyes, Juanita Dion, Angie Krackeler.
+Syed Zaidi, Maya Reyes, Juanita Dion, Angie Krackeler.
 
 ## Assumption: you have brought your laptop and you know enough about Blockchain to want to write Blockchain apps. 
 
@@ -33,6 +33,8 @@ Marek Sadowski, Syed Zaidi, Maya Reyes, Juanita Dion, Angie Krackeler.
 2:00: Event ends   
 ~~~ 
 # Let's get started, introduction and documentation
+
+Let's begin by forming teams of 2-4 people. This helps in working thru the materials and in debugging. You also make add to your social networks.
 
 ## How did it all start?
 
@@ -62,9 +64,9 @@ Deployed in Docker images.
 
 Consensus protocol is pluggable, currently an implementation of Byzantine fault-tolerant con-
 sensus using the PBFT protocol.
-
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
+In this lab we will work with a minimal network with one Peer. Such a system does not support Consensus and is called NOOP for no-op.
 
 <img src="https://farm5.staticflickr.com/4494/37926120211_b7dddb090d_o.png" width="682" height="423" alt="Hyperledger Services">
 
@@ -91,7 +93,7 @@ It is deployed in a Hyperledger Fabric.
 ## Prerequisites: 
 http://hyperledger-fabric.readthedocs.io/en/latest/prereqs.html
 
-Please note that it is crucial that you go thru the link above to verify that you have met the requirements for running Hyperledger on your laptop. Especially if the labs do'nt work. 
+Please note that it is crucial that you go thru the link above to verify that you have met the requirements for running Hyperledger on your laptop. Especially if the labs don't work. 
 
 We will be developing on our laptops. MacOS, Ubuntu or Windows. 
 
