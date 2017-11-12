@@ -117,6 +117,12 @@ Original instructions: http://hyperledger-fabric.readthedocs.io/en/latest/write_
     
 ## Step 2 Navigate to a directory where you want the samples downloaded to, and issue these commands:
 
+Background note: 
+   Hyperledger hosts Fabric containers on Dockerhub. Because these are built for various runtime architectures, there’s no   
+   singular “latest” container. The trick is to identify and download the most recent versions of the containers, they’re   
+   versioned in lock-step which is convenient, and then tag these with “latest”.
+   https://medium.com/google-cloud/deploy-fabcar-on-hyperledger-fabric-93c082c31b7a
+
     1. Source file: http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html
     2. Open terminal window on laptop, do: git clone https://github.com/hyperledger/fabric-samples.git
     3. cd fabric-samples/fabcar
