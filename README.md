@@ -237,6 +237,16 @@ Response is
 
 The Fabcar network consists of a single peer node configured to use CouchDB as the state database, a single “solo” ordering node, a certificate authority (CA) and a CLI container for executing commands.
 
+Display the Fabcar network:
+docker ps --format="{{ .ID }}\t{{ .Names }}"
+bdcad9115060    dev-peer0.org1.example.com-fabcar-1.0
+e3a219fd5c50    cli
+160318483edd    peer0.org1.example.com
+5caa3f261c05    couchdb
+f1b93255fa5d    ca.example.com
+385d784e0581    orderer.example.com
+
+
 ## Step 4 Work with Chaincode from the command line
    https://github.com/hyperledger/fabric-samples/tree/release/balance-transfer
 
