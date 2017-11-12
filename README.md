@@ -18,6 +18,8 @@ Syed Zaidi, Maya Reyes, Angie Krackeler.
 
 ## [Ivan Vankov Hyperledger Fabric -build first network](https://www.youtube.com/watch?v=MPNkUqOKhVE&list=PLjsqymUqgpSTGC4L6ULHCB_Mqmy43OcIh)
 
+## https://medium.com/google-cloud/deploy-fabcar-on-hyperledger-fabric-93c082c31b7a
+
 # Agenda
 ~~~
 10:00: Sign-in, mingle, food, welcome, form teams 
