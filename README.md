@@ -133,7 +133,19 @@ Background note:
      // which is needed for the samples to run properly on your local machine.
      // Note that the images are not tagged "latest" on Dockerhub and your script will not work without this step.
     7. Export MSYS_NO_PATHCONV=1
-    8. Start the fabric: ./startFabric.sh    
+    // These components are bootstrapped by the ./startFabric.sh script, which also:
+
+    // creates a channel and joins the peer to the channel
+    // installs the fabcar smart contract onto the peer’s file system and instantiates it on the channel 
+    // (instantiate starts a container)
+    // calls the initLedger function to populate the channel ledger with 10 unique cars
+    //
+    
+    8. Start the fabric: ./startFabric.sh
+    // http://hyperledger-fabric.readthedocs.io/en/release/understand_fabcar_network.html
+    //
+    //
+    
     9. Install the SDK Node modules: npm install
    10. node enrollAdmin.js
    11. node registerUser.js
