@@ -10,7 +10,7 @@
 ### Wifi at SouthBay SSID/pass = tbd
 Your instructor: Lennart alf@us.ibm.com, Developer Advocate at IBM, focusing on Blockchain, Fintech and Watson.
 
-Syed Zaidi, Maya Reyes, Juanita Dion, Angie Krackeler.
+Syed Zaidi, Maya Reyes, Angie Krackeler.
 
 ## Assumption: you have brought your laptop and you know enough about Blockchain to want to write Blockchain apps. 
 
@@ -228,6 +228,11 @@ Response is
 [Understanding the Fabcar Network](http://hyperledger-fabric.readthedocs.io/en/release/understand_fabcar_network.html)
 
 The Fabcar network consists of a single peer node configured to use CouchDB as the state database, a single “solo” ordering node, a certificate authority (CA) and a CLI container for executing commands.
+
+## Step 4 Work with Chaincode from the command line
+   https://github.com/hyperledger/fabric-samples/tree/release/balance-transfer
+
+
 
 This concludes Lab 1.
 
