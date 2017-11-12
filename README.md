@@ -139,7 +139,30 @@ Background note:
     // installs the fabcar smart contract onto the peer’s file system and instantiates it on the channel 
     // (instantiate starts a container)
     // calls the initLedger function to populate the channel ledger with 10 unique cars
-    //
+    // fabric-samples/chaincode/fabcar/fabcar.go.
+    // fabcar.go 
+    ~~~
+    func (s *SmartContract) initLedger(APIstub shim.ChaincodeStubInterface) sc.Response {
+        cars := []Car{
+                Car{Make: "Toyota", Model: "Prius", Colour: "blue", Owner: "Tomoko"},
+                Car{Make: "Ford", Model: "Mustang", Colour: "red", Owner: "Brad"},
+                Car{Make: "Hyundai", Model: "Tucson", Colour: "green", Owner: "Jin Soo"},
+                Car{Make: "Volkswagen", Model: "Passat", Colour: "yellow", Owner: "Max"},
+                Car{Make: "Tesla", Model: "S", Colour: "black", Owner: "Adriana"},
+                Car{Make: "Peugeot", Model: "205", Colour: "purple", Owner: "Michel"},
+                Car{Make: "Chery", Model: "S22L", Colour: "white", Owner: "Aarav"},
+                Car{Make: "Fiat", Model: "Punto", Colour: "violet", Owner: "Pari"},
+                Car{Make: "Tata", Model: "Nano", Colour: "indigo", Owner: "Valeria"},
+                Car{Make: "Holden", Model: "Barina", Colour: "brown", Owner: "Shotaro"},
+        }
+
+        i := 0
+        for i < len(cars) {
+                fmt.Println("i is ", i)
+                carAsBytes, _ := json.Marshal(cars[i])
+
+    ~~~
+
     
     8. Start the fabric: ./startFabric.sh
     // http://hyperledger-fabric.readthedocs.io/en/release/understand_fabcar_network.html
